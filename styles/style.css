@@ -1,12 +1,12 @@
 body{
     text-align: center;
-    color: red;
-    background-color: yellow;
+    color: Tomato;
+    background-color: IndianRed;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1,h2,h3{
     text-align: center;
-    color: orange;
+    color: ;
 }
 a
 {
@@ -18,7 +18,7 @@ a
 a:hover
 {
 	text-decoration: underline;
-	color: purple;
+	color:plum; 
 }
 div{
 
