@@ -1,24 +1,24 @@
 body{
     text-align: center;
-    color: blue;
-    background-color: blue;
+    color: red;
+    background-color: yellow;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1,h2,h3{
     text-align: center;
-    color: blue;
+    color: orange;
 }
 a
 {
 	text-decoration: none;
-	color: blue;
+	color: orange;
 	font-weight: bold;
 }
 
 a:hover
 {
 	text-decoration: underline;
-	color: blue;
+	color: purple;
 }
 div{
 
