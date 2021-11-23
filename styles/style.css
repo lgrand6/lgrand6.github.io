@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    color: rgb(50,0,13);
-    background-color: rosybrown;
+    color: blue;
+    background-color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1,h2,h3{
@@ -11,14 +11,14 @@ h1,h2,h3{
 a
 {
 	text-decoration: none;
-	color: rgb(109, 113, 46);
+	color: blue;
 	font-weight: bold;
 }
 
 a:hover
 {
 	text-decoration: underline;
-	color: rgb(255, 91, 46);
+	color: blue;
 }
 div{
 
